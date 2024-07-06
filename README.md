@@ -13,7 +13,7 @@
 
     ```bash
     git clone https://github.com/Karim932/docker.git
-    cd projet
+    cd docker
     ```
 
 2. **Construisez et démarrez les conteneurs :**
